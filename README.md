@@ -1,6 +1,9 @@
 # NASA-pic-of-the-day
 
+This app is to be used with Standard Library, a serverless platform that enables everyone to quickly integrate APIs, as well as Code.xyz, an online text editor.  A Standard Library account and a NASA API key will be necessary to uitlize this code and receive NASA's picture of the day.
 
+
+https://hackernoon.com/text-yourself-the-nasa-picture-of-the-day-with-standard-library-and-node-js-226f6ca48adc
 
 
 # Astronomy Picture of the Day (APoD) - Internal Implementation 

@@ -1,0 +1,14 @@
+{
+    "name": "Double0dizzle/NASA-pic-of-the-day",
+    "version": "0.0.0",
+    "author": "Double0dizzle",
+    "stdlib": {
+      "name": "Double0dizzle/NASA-pic-of-the-day",
+      "timeout": 10000,
+      "source": "@eileenzhong/astronomy-picture-of-the-day/0.0.0"
+    },
+    "dependencies": {
+      "lib": "^3.0.2",
+      "axios": "^0.18.0"
+    }
+  }
